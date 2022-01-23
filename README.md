@@ -1,4 +1,4 @@
-# wordel-solver
+# wordle-solver
 A simple Python script to solve Wordle
 
 Written in Python 2.7
